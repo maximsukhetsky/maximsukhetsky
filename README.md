@@ -37,6 +37,9 @@ Jest
 **Principles**  
 SOLID, DRY, KISS
 
+**Paradigms**   
+Functional Programming, OOP
+
 ## 🚀 Experience & Achievements
 
 - **Complex UI Development:** Built a full-screen calendar from scratch without a third-party calendar library. Later introduced virtualization to improve scrolling performance and reduce unnecessary re-renders.
@@ -47,7 +50,8 @@ SOLID, DRY, KISS
 
 ## 📂 Featured Projects
 
-*Coming soon.*
+- **[Ditital Portfolio](https://digital-portfolio-maxim-sukhetsky.vercel.app/):** everything I do as a Frontend Engineer is now in one place: experience, projects, and a quick way to get in touch.
+- **[Writing AI Tool](https://writing-ai-tool.vercel.app/):** an app built with Next.js, Supabase, and the Anthropic API that rewrites text using Claude. It streams responses, offers 6 writing modes, supports magic-link and Google sign-in, and keeps generation history and custom instructions per mode.
 
 ## 📚 Currently Learning
 
