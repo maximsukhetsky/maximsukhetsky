@@ -13,7 +13,7 @@ Frontend Engineer with 5+ years of commercial experience working with React, Typ
 
 ## 🛠 Tech Stack
 
-**Frontend**  
+**Frontend Technologies**  
 JavaScript (ES6+), TypeScript, React, HTML5, CSS3, SCSS, LESS, CSS Modules, BEM
 
 **State Management**  
@@ -25,7 +25,7 @@ Micro Frontends (Webpack Module Federation)
 **API & Data**  
 REST, GraphQL, RTK Query, Axios
 
-**Build Tools**
+**Build Tools**  
 Webpack, Vite, Gulp
 
 **Forms**  
